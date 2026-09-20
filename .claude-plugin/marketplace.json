@@ -1,0 +1,23 @@
+{
+  "name": "brain-damage",
+  "owner": {
+    "name": "OmidSa75",
+    "email": "omidsadeghnezhad97@gmail.com"
+  },
+  "metadata": {
+    "description": "Skills that make the agent guide you instead of doing the task for you",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "brain-damage",
+      "description": "Skills that make the agent guide you instead of doing the task for you",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/no-spoon",
+        "./skills/chalkboard"
+      ]
+    }
+  ]
+}
