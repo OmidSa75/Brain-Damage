@@ -2,11 +2,10 @@
 
 Agent Skills that make the agent **guide you** instead of doing the task for you.
 
-> Are you tired about not doing by yourself? 
-Are you tired about just watching the screen and everything get done by AI?! 
-Did you get bored for just sitting and clicking? 
-Don't worry, get back to the stone-age by installing this skill. 
-
+> Are you tired of not doing things yourself?
+Are you tired of just watching the screen and having everything get done by AI?!
+Are you bored of just sitting and clicking?
+Don't worry, get back to the Stone Age by installing this skill.
 ---
 
 Normal agent skills optimize for shipping fast: you ask, it writes, you merge. These do the
@@ -55,7 +54,7 @@ a deploy, or an incident. Learning mode is not a hostage situation.
 ## Install
 
 ```
-/plugin marketplace add <your-github-user>/brain-damage
+/plugin marketplace add OmidSa75/brain-damage
 /plugin install brain-damage@brain-damage
 ```
 
