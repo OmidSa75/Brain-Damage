@@ -1,5 +1,7 @@
 # brain-damage
 
+![](assets/use-it.png)
+
 Agent Skills that make the agent **guide you** instead of doing the task for you.
 
 > Are you tired of not doing things yourself?
